@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PMDM02_ANDROID_Ejemplo_Ciclo_Vida</string>
+    <string name="abrir">Abrir</string>
+    <string name="cerrar">Cerrar</string>
+</resources>
